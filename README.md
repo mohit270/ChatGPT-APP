@@ -1,2 +1,2 @@
-# CHATGPT-APP
-I developed a project using Flutter that integrates OpenAI's powerful language model, ChatGPT, to provide conversational interactions. It showcases my skills in mobile app development and API integration, and demonstrates my understanding of natural language processing and machine learning.
+# Integrated Flutter App: Chat GPT & AI Art
+Created a Flutter app integrating both the Chat GPT App and AI Art/Image Generating App. Showcased skills in mobile app development, API integration, and machine learning. Implemented voice control and OpenAI API for text generation in the Chat GPT App. Used OpenAI API and Firebase for generating unique digital art images in the AI Art/Image Generating App.
